@@ -1,3 +1,5 @@
+ https://github.com/bharat-bhangale/Airbnb-Explanation-/assets/167877538/e17e9b3d-494c-4095-b1f4-790850a89a85
+
 🚀 Excited to share my latest project, Wanderlust! 🌍
 
 Wanderlust is a full-stack application designed to provide a seamless and engaging experience for travel enthusiasts. Whether you're looking to list your property, read reviews, or discover amazing places around the globe, Wanderlust has got you covered. Here's a quick rundown of the tech stack and the key features that make this project stand out:
@@ -23,6 +25,5 @@ Feel free to explore and share your feedback! I'm eager to hear your thoughts an
 
 Looking forward to connecting with fellow developers and travel enthusiasts! 🌟
 
- https://github.com/bharat-bhangale/Airbnb-Explanation-/assets/167877538/e17e9b3d-494c-4095-b1f4-790850a89a85
 
 
